@@ -1,1 +1,4 @@
-aaaa
+language: ruby 
+rvm:
+ - 8.0.1
+ - netbeans
